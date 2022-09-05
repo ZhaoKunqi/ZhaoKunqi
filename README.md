@@ -5,4 +5,4 @@
 - 💞️ I’m looking to collaborate on Golang/Python projects mainly, also interested at Rust projects.
 - 📫 How to reach me ? DM me at Github .
 
-![my github activity graph](https://activity-graph.herokuapp.com/graph?username=ZhaoKunqi&theme=github)
+<!-- ![my github activity graph](https://activity-graph.herokuapp.com/graph?username=ZhaoKunqi&theme=github) -->
