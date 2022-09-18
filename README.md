@@ -1,4 +1,4 @@
-![my github activity graph](https://activity-graph.herokuapp.com/graph?username=ZhaoKunqi&theme=github)
+<!-- ![my github activity graph](https://activity-graph.herokuapp.com/graph?username=ZhaoKunqi&theme=github) -->
 ![my top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhaoKunqi&hide=css,html&layout=compact&langs_count=8)
 - 👋 Hi, I’m @ZhaoKunqi
 - 👀 I’m interested in Hybrid cloud and its infrastructure /3D printing related Artworks/Crafting
