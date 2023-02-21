@@ -4,4 +4,3 @@
 - 🌱 I’m currently learning OpenStack and Ceph, with planning of learning OpenShift/K8S and get deeper at RHEL tech tree.
 - 🌱 I might write some ansible playbook in the future.
 - 💕 Proudly announce that I passed Red Hat Certified Specialist in Ceph Storage Administration exam with 100% score ~~
-- 🥇 If you interested in my achievements, you can find them here https://www.credly.com/users/kunqi-zhao/badges
