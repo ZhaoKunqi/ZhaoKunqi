@@ -1,4 +1,3 @@
-<!-- ![my github activity graph](https://activity-graph.herokuapp.com/graph?username=ZhaoKunqi&theme=github) -->
 ![my top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhaoKunqi&hide=css,html&layout=compact&langs_count=8)
 - 👀 I’m interested in hybird cloud computing and its infrastructure
 - 🌱 I mainly work with Ceph, Kubernetes, and OpenStack, also worked with VMware vSphere a few years ago. 
