@@ -4,5 +4,5 @@
 - 🏅 Redhat Certified Engineer, Redhat Certified Architect
 - 🏅 AWS Certified Solution Architect Associate
 - ⚙️ Have lots of fun and engaging times with 3D printing(I mainly work with FDM printer) and the utility around it. 
-- 💡 Still having some good Arduino and Raspberry Pi idea jumping around just too busy to make it happen.
+- 💡 Still having some good Arduino and Raspberry Pi idea jumping around just too busy to make them happen.
 - 🏆 You can check my certifications here at: [credly.com](https://www.credly.com/users/kunqi-zhao/badges)
