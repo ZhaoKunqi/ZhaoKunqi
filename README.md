@@ -2,5 +2,6 @@
 - 👀 I’m interested in hybird cloud computing and its infrastructure
 - ☁️ I mainly work with Ceph, Kubernetes, and OpenStack.
 - ⚙️ Have lots of fun and engaging times with 3D printing(I mainly work with FDM printer) and the utility around it. 
-- ♿ I'm a failure that currently suffering from unemployment.
+- ♿ 正在找工作！
+- 🤓☝️ 正在备考CKA认证。
 - 🏆 Redhat Certified Architect, AWS Certified Solution Architect Professional, my other certifications here at: [credly.com](https://www.credly.com/users/kunqi-zhao/badges)
